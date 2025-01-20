@@ -37,7 +37,7 @@ function PostList({ posts, setPosts }) {
 
     return (
         <div className="post-list-container">
-            <h1 className="page-title">Post Hub</h1>
+            <h1 className="page-title">Post Explorer</h1>
             <div className="search-bar-container">
                 <span className="search-icon">🔍</span>
                 <input
